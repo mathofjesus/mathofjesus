@@ -78,4 +78,4 @@ Aplicação para gerenciamento de dados de um zoológico, incluindo animais, cui
 
 ---
 
-**"O código é poesia executada."** ✨
+**"Com estilo, inteligência e sem medo."** ✨
