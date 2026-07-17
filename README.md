@@ -1,80 +1,106 @@
-# Olá, eu sou Matheus Costa 👋
+# Matheus Costa — Backend Software Engineer
 
-**Computer Science Student | Fullstack Developer**
-
-Estudante de Ciência da Computação (6º semestre) na Descomplica com 9 anos de experiência em operações e automação. Estou buscando um **estágio ou posição de desenvolvedor junior** para contribuir com projetos reais e consolidar minhas habilidades em desenvolvimento fullstack.
-
----
-
-## 🎯 Sobre Mim
-
-Meu background em operações me proporcionou forte base em **resolução de problemas**, **atenção a detalhes** e **automação de processos** — habilidades que carrego para meu desenvolvimento como engenheiro de software. Sou apaixonado por código bem estruturado e estou construindo meu caminho até **grandes tech companies** como Google, com alternativas em IBM Security.
-
-**Localização:** Lauro de Freitas, BA 🇧🇷
+**Computer Science Student** | Descomplica Faculdade Digital (6º semestre, conclusão dezembro/2027)  
+**Localização:** Lauro de Freitas, Bahia, Brasil 🇧🇷
 
 ---
 
-## 🛠 Tecnologias & Skills
+## Sobre
 
-### Linguagens
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+Backend Engineer em formação com background sólido em **operações, automação e sistemas distribuídos**. Especializado em **Java e Spring Boot** para arquiteturas corporativas e financeiras. Proficiente em **Python** para lógica e análise de dados. Estudando **Go** para sistemas distribuídos de alta performance.
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+Meu background em operações e KPI monitoring em ambientes de manufatura evoluiu para **data-driven problem solving** e desenvolvimento de sistemas robustos. Apaixonado por código bem estruturado, arquitetura limpa e engenharia de software escalável.
 
-### Backend & Banco de Dados
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
-
-### Ferramentas & Outras
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+**Objetivo:** Conquistar vagas de **Desenvolvedor/Engenheiro Backend** focadas em **Java, Spring Boot e PostgreSQL** no setor financeiro brasileiro, com abertura para fintechs globais que utilizam Go.
 
 ---
 
-## 💼 Projetos em Destaque
+## Competências Técnicas
 
-### 🎯 [Gestor de Finanças Pessoais](https://github.com/mathdejesus/gestor-de-financas-pessoais)
-Sistema completo de gestão financeira pessoal. Desenvolvido com foco em **arquitetura limpa**, **experiência do usuário** e **controle robusto de dados**.
+**Backend & Arquitetura**
+- Java (OOP fundamentals, programming logic, Spring Boot 3.x)
+- Spring Boot (dependency injection, layered architecture, annotations)
+- PostgreSQL (schema design, query optimization, Flyway migrations)
+- REST APIs, JWT authentication, BCrypt encryption
 
-### 📇 [Agenda de Contatos](https://github.com/mathdejesus/Agenda-de-Contatos)
-Aplicação desktop/console em Java para gerenciamento de contatos. Demonstrates core Java concepts e estrutura de dados.
+**Desenvolvimento**
+- Python (NumPy, Pandas, academic & data analysis)
+- JavaScript (fundamentals)
+- Git (advanced workflows: rebase, merge, squash, feature branches)
+- CI/CD (GitHub Actions), Docker Compose, Linux operations
 
-### 📚 [Sistema de Bibliotecas](https://github.com/mathdejesus/Sistema_de_Bibliotecas)
-Sistema de gestão de biblioteca com funcionalidades de catálogo, empréstimos e devoluções. Implementado com best practices em design de software.
+**Engenharia de Software**
+- Test-Driven Development (JUnit 5, Mockito)
+- End-to-end testing (Playwright)
+- Multi-module architecture, Maven
+- Clean code principles, SOLID
 
-### 🦁 [Sistema de Controle de Zoológico](https://github.com/mathdejesus/Zoo)
-Aplicação para gerenciamento de dados de um zoológico, incluindo animais, cuidadores e recursos.
-
----
-
-## 🚀 O Que Estou Buscando
-
-- **Estágio** em desenvolvimento fullstack ou backend
-- **Posição Junior** em empresas de tecnologia
-- Oportunidades para trabalhar com **Java/Spring Boot** ou **JavaScript/TypeScript**
-- Projetos que exijam **resolução de problemas** e **código de qualidade**
-
----
-
-## 📫 Entre em Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-costa-de-jesus-/)
+**Em Desenvolvimento**
+- Go (Golang) — sistemas distribuídos, fintechs remotas
 
 ---
 
-## 📊 GitHub Stats
+## Projetos em Destaque
 
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathdejesus&show_icons=true&theme=dark&hide_border=true)
+### [Gestor de Finanças Pessoais (GFP)](https://github.com/mathdejesus/gestor-de-financas-pessoais)
+Sistema completo de gestão financeira pessoal. Arquitetura multi-module (API, Core, Infra) com foco em **production-readiness**.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathdejesus&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+**Tech Stack:** Spring Boot 3.2, PostgreSQL, Flyway, JWT + BCrypt, JUnit 5 + Mockito, Playwright E2E, Docker Compose, GitHub Actions CI/CD, Preact + TypeScript
+
+**Diferenciais:**
+- Arquitetura em camadas com separação clara de responsabilidades
+- Autenticação segura com token versioning
+- Testes unitários + E2E (>80% backend coverage em progresso)
+- Pipeline CI/CD automatizado
+- Multi-module Maven para escalabilidade
+
+---
+
+### [Visual Query Builder](https://github.com/mathdejesus/visual-query-builder)
+Ferramenta interativa para construção visual de queries SQL. Demonstra compreensão profunda de **abstração de dados** e **UX de engenharia**.
+
+---
+
+### [Memory Game](https://github.com/mathdejesus/memory-game)
+Jogo interativo desenvolvido com foco em **performance** e **experiência do usuário**. Aplicação React Native + Expo + TypeScript com revisão técnica rigorosa.
+
+---
+
+## Experiência Profissional
+
+**M. Dias Branco — Operações em Manufatura** (full-time, atual)
+- Monitoramento de KPIs críticos em ambientes Linux
+- Detecção de anomalias em sistemas de produção
+- Documentação técnica e troubleshooting
+- Colaboração multidisciplinar — backend-ready problem solving
+
+*Transição em curso para desenvolvimento full-time.*
+
+---
+
+## Educação & Certificações
+
+- **Bacharelado em Ciência da Computação** — Descomplica Faculdade Digital (conclusão: dezembro/2027)
+- **Voxy B1 English Certification**
+- **Coursera & Extensões** — Python, Java, Data Science fundamentals
+
+---
+
+## Mindset & Princípios
+
+- **Honestidade sobre skills:** Defendo apenas o que domino. Excluídos ativamente da minha profile: Docker, Angular, Node.js, MongoDB, TypeScript (frameworks), React
+- **Defensibilidade técnica:** Código que posso explicar em detalhe em entrevista
+- **Git avançado como diferencial:** Rebase, merge, squash, feature branches — raridade em entry-level
+- **Test-first mentality:** Código robusto requer testes
+
+---
+
+## Conecte-se
+
+**Email:** matheuscojesus@gmail.com  
+**LinkedIn:** [Matheus Costa de Jesus](https://www.linkedin.com/in/matheus-costa-de-jesus-/)  
+**Twitter/X:** [@Im_mathdejesus](https://x.com/Im_mathdejesus)  
+**GitHub:** [github.com/mathdejesus](https://github.com/mathdejesus)
 
 ---
 
