@@ -70,16 +70,6 @@ Ferramenta interativa para construção visual de queries SQL. Demonstra compree
  
 ---
  
-## Experiência Profissional
- 
-**M. Dias Branco — Operações em Manufatura** (full-time, atual)
-- **KPI Monitoring:** Monitoramento de métricas críticas em ambientes Linux — extração de padrões em dados reais
-- **Detecção de Anomalias:** Análise de desvios em sistemas de produção — aplicação prática de conceitos estatísticos
-- **Documentação Técnica:** Troubleshooting, procedures, compliance — comunicação clara de soluções complexas
-- **Multidisciplinaridade:** Colaboração com times de produção, planejamento e logística — mindset de problem-solving orientado a dados
-*Transição em curso para desenvolvimento full-time. Este background fornece visão real de como dados comportam-se em ambientes críticos — asset para IA/ML aplicado.*
- 
----
  
 ## Educação & Certificações
  
@@ -116,7 +106,7 @@ Ferramenta interativa para construção visual de queries SQL. Demonstra compree
  
 ## Conecte-se
  
-**Email:** matheuscosta.jesus@outlook.com  
+**Email:** matheuscojesus@gmail.com  
 **LinkedIn:** [Matheus Costa de Jesus](https://www.linkedin.com/in/matheuscosta-de-jesus-/)  
 **Twitter/X:** [@Im_mathdejesus](https://x.com/Im_mathdejesus)  
 **GitHub:** [github.com/mathdejesus](https://github.com/mathdejesus)
