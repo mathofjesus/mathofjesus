@@ -1,118 +1,173 @@
-# Matheus Costa — Backend & AI/ML Engineer
-**Computer Science Student** | Descomplica Faculdade Digital (6º semestre, conclusão dezembro/2027)  
-**Localização:** Lauro de Freitas, Bahia, Brasil 🇧🇷
- 
----
- 
-## Sobre
- 
-Backend Engineer em formação com transição deliberada para **IA/ML como complemento estratégico**. Background sólido em operações, automação e sistemas distribuídos evoluiu para **data-driven problem solving** e agora estende-se para **machine learning e análise preditiva**.
- 
-**Stack principal:** Java/Spring Boot, PostgreSQL, Python (fundamentals em IA/ML).  
-**Especialidade:** Sistemas robustos, arquitetura escalável e dados para decisão.
- 
-Meu background em **KPI monitoring e data analysis** em manufatura cria ponte natural entre backend robusto e ML aplicado. Apaixonado por código bem estruturado, testes rigorosos e engenharia de software escalável.
- 
-**Objetivo:** Conquistar vagas de **Desenvolvedor/Engenheiro Backend** focadas em **Java e Spring Boot** no setor financeiro brasileiro, com abertura para **IA/ML roles** que aproveitem Python e análise de dados. Fintechs globais que usam **Go** também no radar.
- 
----
- 
-## Competências Técnicas
- 
-### Backend & Arquitetura (Principal)
-- **Java** — OOP fundamentals, programming logic, Spring Boot 3.x
-- **Spring Boot** — dependency injection, layered architecture, annotations, REST APIs
-- **PostgreSQL** — schema design, query optimization, Flyway migrations
-- **Segurança** — JWT authentication, BCrypt encryption
-- **Arquitetura** — multi-module, clean code, SOLID principles
-### IA/ML & Data (Em Desenvolvimento)
-- **Python** — NumPy, Pandas (data manipulation)
-- **Fundamentos** — estatística aplicada, análise exploratória de dados (EDA)
-- **Roadmap ativo** — scikit-learn, regressão/classificação, feature engineering
-- **Ferramentas** — Jupyter, Power BI (análise + visualização)
-### Desenvolvimento & DevOps
-- **Git** — advanced workflows (rebase, merge, squash, feature branches) — **diferencial em entry-level**
-- **Testing** — JUnit 5, Mockito (TDD mindset), Playwright (E2E)
-- **CI/CD** — GitHub Actions, Docker Compose
-- **Sistemas** — Linux operations, Bash scripting
-### Em Roadmap
-- **Go (Golang)** — sistemas distribuídos, fintechs remotas
-- **ML Deployment** — modelos em produção, pipelines de dados
----
- 
-## Projetos em Destaque
- 
-### [Gestor de Finanças Pessoais (GFP)](https://github.com/mathdejesus/gestor-de-financas-pessoais)
-Sistema completo de gestão financeira pessoal. Arquitetura multi-module com foco em **production-readiness** e componentes de **análise de dados**.
- 
-**Tech Stack:** Spring Boot 3.2, PostgreSQL, Flyway, JWT + BCrypt, JUnit 5 + Mockito, Playwright E2E, Docker Compose, GitHub Actions, Preact + TypeScript
- 
-**Diferenciais:**
-- Arquitetura em camadas com separação clara de responsabilidades
-- Autenticação segura com token versioning
-- Testes unitários + E2E (>80% backend coverage em progresso)
-- Pipeline CI/CD automatizado
-- Multi-module Maven para escalabilidade
-- **Componentes de análise:** KPI tracking, dashboard de gastos (ponte para IA/ML)
-**Aprendizado em IA/ML:** Dashboard fornece base para modelos preditivos futuros (previsão de despesas, detecção de anomalias).
- 
----
- 
-### [Memory Game](https://github.com/mathdejesus/memory-game)
-Jogo interativo com foco em **performance** e **user experience**. React Native + Expo + TypeScript com revisão técnica rigorosa.
- 
-**Demonstra:** Frontend fundamentals e pensamento de UI/UX — complementa visão fullstack.
- 
----
- 
-### [Visual Query Builder](https://github.com/mathdejesus/visual-query-builder)
-Ferramenta interativa para construção visual de queries SQL. Demonstra compreensão profunda de **abstração de dados** e **UX de engenharia**.
- 
----
- 
- 
-## Educação & Certificações
- 
-- **Bacharelado em Ciência da Computação** — Descomplica Faculdade Digital (conclusão: dezembro/2027)
-- **Voxy B1 English Certification**
-- **Coursera & Extensões** — Python, Java, Data Science fundamentals, Business Statistics
-- **Em Progresso:** Fundamentos de Machine Learning, Python para Data Science
----
- 
-## Mindset & Princípios
- 
-- **Honestidade sobre skills:** Defendo apenas o que domino. Backend: prático e defensível. IA/ML: em desenvolvimento ativo com base sólida teórica. Excluídos ativamente: Docker, Angular, Node.js, MongoDB, TypeScript (frameworks), React
-- **Defensibilidade técnica:** Código que posso explicar em detalhe em entrevista
-- **Git avançado como diferencial:** Rebase, merge, squash, feature branches — raridade em entry-level
-- **Test-first mentality:** Código robusto requer testes
-- **Backend + IA/ML complementares:** Python como ponte; ML deployment será sobre pipelines sólidas, não apenas modelos isolados
----
- 
-## Próximos Passos (Roadmap)
- 
-### Curto Prazo (Próximos 2-3 meses)
-- ✅ Finalizar GFP (README, test coverage 80%+, Playwright E2E)
-- 🔄 **Projeto de IA/ML:** Sistema de Limite de Crédito com análise preditiva (Python + scikit-learn)
-- 📊 Aprofundar em pandas, feature engineering, validação de modelos
-### Médio Prazo (3-6 meses)
-- 🚀 Deploy de modelo preditivo em produção (GFP ou novo projeto)
-- 📈 Certificação em ML fundamentals
-- 🔗 Integrar modelo ML com backend Java (pipeline completa)
-### Longo Prazo
-- 🐹 Go para sistemas distribuídos
-- 🛡️ Cybersecurity (interesse secundário)
-- 🏢 Senior backend engineer com expertise em MLOps
----
- 
-## Conecte-se
- 
-**Email:** matheuscojesus@gmail.com  
-**LinkedIn:** [Matheus Costa de Jesus](https://www.linkedin.com/in/matheuscosta-de-jesus-/)  
-**Twitter/X:** [@Im_mathdejesus](https://x.com/Im_mathdejesus)  
-**GitHub:** [github.com/mathdejesus](https://github.com/mathdejesus)
- 
----
- 
-**"Com estilo, inteligência e sem medo."** ✨
- 
+# Matheus Costa de Jesus
 
+**Estudante de Ciência da Computação** | **Operador de Máquinas (8 anos)** | **Foco: Cibersegurança & Forward Deployed Engineering**
+
+---
+
+## 🎯 Perfil Profissional
+
+Estudante de Ciência da Computação (6º semestre, EAD) com **8 anos de experiência operacional** em ambiente industrial (M. Dias Branco). Atualmente cursando **CS50x (Harvard)** e construindo portfólio com foco em:
+
+- **Cibersegurança** — análise de vulnerabilidades, hardening, segurança de memória, programação segura
+- **Forward Deployed Engineering** — integração de sistemas, troubleshooting em produção, automação, observabilidade
+- **Engenharia de Sistemas** — C/C++, Linux, redes, programação de baixo nível, arquitetura de software
+
+**Localização:** Lauro de Freitas, BA, Brasil  
+**Contato:** matheuscojesus@gmail.com | +55 71 99608-0859  
+**Links:** [GitHub](https://github.com/mathofjesus) • [LinkedIn](https://linkedin.com/in/matheus-costa-de-jesus) • [X/Twitter](https://x.com/mathofjesus)
+
+---
+
+## 🛠️ Stack Tecnológica
+
+### Linguagens Principais
+| Linguagem | Uso Principal |
+|-----------|---------------|
+| **C** | Sistemas, memória, redes, Linux/POSIX, segurança, engenharia reversa |
+| **C++** | Estruturas de dados, STL, concorrência, sistemas de maior escala, ML do zero |
+| **Python** | Automação, scripting, análise, IA/ML, ferramentas de segurança |
+| **Java** | Backend enterprise, Spring Boot, sistemas financeiros (formação/legado) |
+| **SQL** | Persistência relacional, otimização, integração |
+
+### Ecossistema de Desenvolvimento
+- **Build/Compilação:** GCC, Clang, CMake, Make, Maven
+- **Debug/Análise:** GDB, Valgrind, AddressSanitizer, UBSan, ThreadSanitizer, perf
+- **Versionamento:** Git, GitHub, GitHub Actions (CI/CD)
+- **Containerização:** Docker, Docker Compose
+- **Bancos:** PostgreSQL, Redis, libpq
+- **Redes/Protocolos:** TCP/IP, HTTP, TLS, sockets, epoll
+- **Testes:** Criterion, JUnit 5, Mockito, TestContainers, Playwright
+
+### Áreas de Foco Atual
+- Segurança de memória (buffer overflow, use-after-free, integer overflow)
+- Programação de sistemas Linux (syscalls, file descriptors, IPC, signals)
+- Criptografia aplicada, TLS, parsing seguro
+- Fuzzing, análise estática/dinâmica, sanitizers
+- Arquitetura de sistemas distribuídos, mensageria, cloud
+
+---
+
+## 🚀 Projetos em Destaque
+
+### [SecureLens](https://github.com/mathofjesus/SecureLens) ⭐ **Projeto Principal de Portfólio**
+**C/C++ • Cybersecurity • Machine Learning • Docker • CI/CD**
+
+Plataforma que combina **análise de vulnerabilidades em dependências** (via API OSV) com **classificação de sentimentos** implementada do zero em C++ (TF-IDF + Logistic Regression).
+
+**Destaques técnicos:**
+- Parser de dependências: `requirements.txt`, `package.json`, `pom.xml`
+- Cliente HTTP assíncrono com `libcurl` para API OSV
+- ML from scratch: tokenizer, TF-IDF, logistic regression, serialização de modelo
+- API REST + CLI unificadas
+- Hardening: validação de paths, limites de arquivo, timeouts, sem execução de código alheio
+- Testes com Criterion, sanitizers (ASan/UBSan/TSan), CI no GitHub Actions
+
+**Stack:** C++17, C11, CMake, libcurl, nlohmann/json, tinyxml2, Docker
+
+---
+
+### [Gestor de Finanças Pessoais](https://github.com/mathofjesus/gestor-de-financas-pessoais) ⭐ **Produção**
+**Java 21 • Spring Boot 3.5 • PostgreSQL • JWT • Docker • TestContainers**
+
+Plataforma financeira full-stack com **rigor empresarial**: precisão monetária (BigDecimal), autenticação JWT com rotação de tokens (versioning), proteção CSRF double-submit, optimistic locking (`@Version`), validação de segredos no startup, bloqueio por força bruta, SSR com Thymeleaf, PWA offline.
+
+**Arquitetura:** Maven multi-module (`financeapp-core` + `financeapp-api`)  
+**Testes:** 80%+ cobertura, TestContainers (PostgreSQL real), MockMvc  
+**CI/CD:** GitHub Actions, Docker Compose, Flyway migrations
+
+---
+
+### [Encurtador de URLs](https://github.com/mathofjesus/Encurtador) 🧪 **Systems Programming**
+**C • epoll • Redis • PostgreSQL • Docker Sandbox**
+
+URL shortener construído para **praticar programação de sistemas** e **medir gaps de capacidade** entre requisitos e hardware restrito (1 vCPU, 4 GB RAM, 50 GB NVMe).
+
+**Implementação própria:**
+- HTTP server assíncrono com reactor `epoll` + connection buffering
+- Parser HTTP/1.1, rate limiting token-bucket, cache Redis (`hiredis`)
+- Connection pool PostgreSQL (`libpq`), métricas Prometheus, JSON logging
+- Sandbox Docker que **impõe** os limites de hardware (CFS quota, cgroups)
+
+**Análise de capacidade documentada:** requisitos de 100M URLs/dia e retenção 10 anos **não cabem** no hardware — o projeto expõe a aritmética e os limites reais (throughput, disco, HA).
+
+---
+
+### [Dashboard](https://github.com/mathofjesus/Dashboard) 📊 **C Systems**
+**C • Make • Binário nativo ~107KB**
+
+Dashboard de métricas/sistema em C puro. Build com `Makefile`, foco em desempenho e footprint mínimo.
+
+---
+
+### [CS50x](https://github.com/mathofjesus/CS50x) 🎓 **Formação**
+**C • Harvard CS50x**
+
+Exercícios e problem sets do curso CS50x (Harvard) — fundamentos de C, algoritmos, memória, estruturas de dados, web, SQL, Python.
+
+---
+
+### [docker-sandbox](https://github.com/mathofjesus/docker-sandbox) 🧰 **Tooling / Agent Skill**
+**TypeScript/Node • Docker • Apache-2.0**
+
+Skill para agentes de IA (Claude Code, Cursor, Codex, Hermes) executarem testes e protótipos em **containers descartáveis** — host limpo, isolamento total. Suporta: TypeScript (React/Vue/Preact + Vitest/Jest), Playwright E2E, Java 21 + Spring Boot (Maven/Gradle), PostgreSQL 15.
+
+---
+
+## 📦 Outros Projetos no GitHub
+
+| Repositório | Linguagem | Descrição |
+|-------------|-----------|-----------|
+| [Portfolio](https://github.com/mathofjesus/Portfolio) | TypeScript | Portfolio web completo |
+| [notificador-de-precos](https://github.com/mathofjesus/notificador-de-precos) | Java | Monitoramento de preços |
+| [memory-game](https://github.com/mathofjesus/memory-game) | TypeScript | React Native + Expo + Jest |
+| [visual-query-builder](https://github.com/mathofjesus/visual-query-builder) | TypeScript | Construtor visual de queries |
+| [ComparadorDeInvestimentosRendaFixa](https://github.com/mathofjesus/ComparadorDeInvestimentosRendaFixa) | Java | LCA/LCI vs Tesouro Direto |
+| [Sistema_de_Bibliotecas](https://github.com/mathofjesus/Sistema_de_Bibliotecas) | Java | Sistema acadêmico |
+| [Zoo](https://github.com/mathofjesus/Zoo) | Java | Controle de zoológico |
+| [Agenda-de-Contatos](https://github.com/mathofjesus/Agenda-de-Contatos) | HTML | Projeto concluído |
+| [EstruturasDeControle](https://github.com/mathofjesus/EstruturasDeControle) | — | Exercícios de faculdade |
+
+> **Total:** 25 repositórios públicos • 30 stars • Foco crescente em C/C++ e sistemas
+
+---
+
+## 🎓 Formação & Certificações
+
+- **Ciência da Computação** — 6º semestre (EAD) — *em andamento*
+- **CS50x** — Harvard (Introduction to Computer Science) — *em andamento*
+- **Voxy Proficiency Certificate** — Inglês (B1 Intermediário)
+- **Experiência profissional:** 9 anos como Operador de Máquinas (M. Dias Branco) — automação industrial, KPIs, documentação técnica, conformidade de segurança, equipes multidisciplinares
+
+---
+
+## 🎯 Objetivos de Carreira (Próximos 12–24 meses)
+
+1. **Cibersegurança** — Security Engineer, AppSec, SecOps, Threat Research
+2. **Forward Deployed Engineer** — Integração cliente-produção, troubleshooting, automação, arquitetura
+3. **Engenharia de Sistemas/Backend** — Rust/Go/C++ em sistemas distribuídos, infraestrutura, performance
+
+**Empresas de interesse:** ANPD, Google, IBM, Nubank, Banco do Brasil, Santander, startups de segurança/infra
+
+---
+
+## 📚 Princípios de Desenvolvimento
+
+- **Fundamentos primeiro:** C/C++ para entender o que linguagens de alto nível abstraem
+- **Segurança por design:** validação de entrada, ownership explícito, sanitizers sempre
+- **Observabilidade nativa:** logs estruturados, métricas, tracing desde o início
+- **Projetos como sistemas reais:** não apenas exercícios — arquitetura, testes, CI, deploy, documentação
+- **Aprendizado progressivo:** conceito → código mínimo → compilação → execução → debug → análise → sistema maior
+
+---
+
+## 🤝 Como Me Encontrar
+
+- **Email:** matheuscojesus@gmail.com
+- **LinkedIn:** [linkedin.com/in/matheus-costa-de-jesus](https://linkedin.com/in/matheus-costa-de-jesus)
+- **GitHub:** [github.com/mathofjesus](https://github.com/mathofjesus)
+- **X/Twitter:** [x.com/mathofjesus](https://x.com/mathofjesus)
+
+---
+
+> *"A programação é a ferramenta; o entendimento de sistemas, redes, memória e segurança é o diferencial."*  
+> — Construindo base sólida em C/C++ para atuar em segurança e engenharia de sistemas reais.
