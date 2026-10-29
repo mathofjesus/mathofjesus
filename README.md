@@ -8,15 +8,15 @@
 <!-- ===== IDENTITY BADGES ===== -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java%20%26%20Spring-0A101F?style=for-the-badge&logo=spring&logoColor=A78BFA&labelColor=0A101F" alt="Java and Spring" />
+<img src="https://img.shields.io/badge/Java%20%26%20Spring-000000?style=for-the-badge&logo=spring&logoColor=4ADE80&labelColor=000000" alt="Java and Spring" />
 &nbsp;
-<img src="https://img.shields.io/badge/JavaScript%2FTypeScript-0A101F?style=for-the-badge&logo=typescript&logoColor=22D3EE&labelColor=0A101F" alt="JavaScript and TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript%2FTypeScript-000000?style=for-the-badge&logo=typescript&logoColor=4ADE80&labelColor=000000" alt="JavaScript and TypeScript" />
 &nbsp;
-<img src="https://img.shields.io/badge/SQL%20%26%20NoSQL-0A101F?style=for-the-badge&logo=postgresql&logoColor=10B981&labelColor=0A101F" alt="SQL and NoSQL" />
+<img src="https://img.shields.io/badge/SQL%20%26%20NoSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&labelColor=000000" alt="SQL and NoSQL" />
 &nbsp;
-<img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-0A101F?style=for-the-badge&logo=amazonwebservices&logoColor=A78BFA&labelColor=0A101F" alt="Cloud and DevOps" />
+<img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-000000?style=for-the-badge&logo=amazonwebservices&logoColor=4ADE80&labelColor=000000" alt="Cloud and DevOps" />
 &nbsp;
-<img src="https://img.shields.io/badge/FDE-0A101F?style=for-the-badge&logo=handshake&logoColor=10B981&labelColor=0A101F" alt="Forward Deployed Engineer" />
+<img src="https://img.shields.io/badge/FDE-000000?style=for-the-badge&logo=handshake&logoColor=FFFFFF&labelColor=000000" alt="Forward Deployed Engineer" />
 
 </div>
 
@@ -24,19 +24,19 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mathofjesus&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
-  <img width="100%" src="https://streak-stats.demolab.com/?user=mathofjesus&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="GitHub streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mathofjesus&hide_border=true&background=000000&stroke=4ADE80&ring=FFFFFF&fire=4ADE80&currStreakLabel=4ADE80&sideLabels=A3A3A3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=737373&titleColor=4ADE80&card_width=1180" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=mathofjesus&hide_border=true&background=FFFFFF&stroke=15803D&ring=000000&fire=15803D&currStreakLabel=15803D&sideLabels=525252&currStreakNum=000000&sideNums=000000&dates=737373&titleColor=15803D&card_width=1180" alt="GitHub streak" />
 </picture>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=mathofjesus&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=false&border_color=22D3EE&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
-  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=mathofjesus&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=false&border_color=0891B2&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=mathofjesus&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=false&border_color=4ADE80&title_color=4ADE80&icon_color=FFFFFF&text_color=A3A3A3&bg_color=000000&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=mathofjesus&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=false&border_color=15803D&title_color=15803D&icon_color=000000&text_color=000000&bg_color=FFFFFF&card_width=500" alt="GitHub stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one.vercel.app/api/top-langs/?username=mathofjesus&layout=compact&langs_count=8&hide_border=false&border_color=22D3EE&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
-  <img width="49%" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=mathofjesus&layout=compact&langs_count=8&hide_border=false&border_color=0891B2&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one.vercel.app/api/top-langs/?username=mathofjesus&layout=compact&langs_count=8&hide_border=true&title_color=4ADE80&text_color=A3A3A3&bg_color=000000&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=mathofjesus&layout=compact&langs_count=8&hide_border=true&title_color=15803D&text_color=000000&bg_color=FFFFFF&card_width=500" alt="Top languages" />
 </picture>
 
 <sub>Automatic language distribution across all repositories — includes systems and CS50 projects.</sub>
@@ -65,87 +65,87 @@ Computer Science student (6th semester) with 9 years of operational experience i
 **Core languages**
 
 <p>
-  <img src="https://img.shields.io/badge/Java-0A101F?style=for-the-badge&logo=openjdk&logoColor=22D3EE&labelColor=0A101F" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-0A101F?style=for-the-badge&logo=javascript&logoColor=A78BFA&labelColor=0A101F" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-0A101F?style=for-the-badge&logo=typescript&logoColor=22D3EE&labelColor=0A101F" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SQL-0A101F?style=for-the-badge&logo=postgresql&logoColor=10B981&labelColor=0A101F" alt="SQL" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=4ADE80&labelColor=000000" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF&labelColor=000000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=4ADE80&labelColor=000000" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&labelColor=000000" alt="SQL" />
 </p>
 
 **Backend**
 
 <p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-0A101F?style=flat-square&logo=springboot&logoColor=10B981&labelColor=0A101F" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring%20Security-0A101F?style=flat-square&logo=springsecurity&logoColor=10B981&labelColor=0A101F" alt="Spring Security" />
-  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-0A101F?style=flat-square&logo=spring&logoColor=10B981&labelColor=0A101F" alt="Spring Data JPA" />
-  <img src="https://img.shields.io/badge/Spring%20Web-0A101F?style=flat-square&logo=spring&logoColor=10B981&labelColor=0A101F" alt="Spring Web" />
-  <img src="https://img.shields.io/badge/REST%20APIs-0A101F?style=flat-square&logo=swagger&logoColor=22D3EE&labelColor=0A101F" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Swagger%2FOpenAPI-0A101F?style=flat-square&logo=swagger&logoColor=22D3EE&labelColor=0A101F" alt="Swagger and OpenAPI" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-000000?style=flat-square&logo=springboot&logoColor=4ADE80&labelColor=000000" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring%20Security-000000?style=flat-square&logo=springsecurity&logoColor=4ADE80&labelColor=000000" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-000000?style=flat-square&logo=spring&logoColor=4ADE80&labelColor=000000" alt="Spring Data JPA" />
+  <img src="https://img.shields.io/badge/Spring%20Web-000000?style=flat-square&logo=spring&logoColor=4ADE80&labelColor=000000" alt="Spring Web" />
+  <img src="https://img.shields.io/badge/REST%20APIs-000000?style=flat-square&logo=swagger&logoColor=4ADE80&labelColor=000000" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Swagger%2FOpenAPI-000000?style=flat-square&logo=swagger&logoColor=4ADE80&labelColor=000000" alt="Swagger and OpenAPI" />
 </p>
 
 **Frontend**
 
 <p>
-  <img src="https://img.shields.io/badge/React-0A101F?style=flat-square&logo=react&logoColor=22D3EE&labelColor=0A101F" alt="React" />
-  <img src="https://img.shields.io/badge/Angular-0A101F?style=flat-square&logo=angular&logoColor=A78BFA&labelColor=0A101F" alt="Angular" />
-  <img src="https://img.shields.io/badge/HTML5-0A101F?style=flat-square&logo=html5&logoColor=A78BFA&labelColor=0A101F" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-0A101F?style=flat-square&logo=css3&logoColor=22D3EE&labelColor=0A101F" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SCSS-0A101F?style=flat-square&logo=sass&logoColor=A78BFA&labelColor=0A101F" alt="SCSS" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-0A101F?style=flat-square&logo=tailwindcss&logoColor=22D3EE&labelColor=0A101F" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Angular%20Material-0A101F?style=flat-square&logo=angular&logoColor=A78BFA&labelColor=0A101F" alt="Angular Material" />
-  <img src="https://img.shields.io/badge/Thymeleaf-0A101F?style=flat-square&logo=thymeleaf&logoColor=10B981&labelColor=0A101F" alt="Thymeleaf" />
+  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=4ADE80&labelColor=000000" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-000000?style=flat-square&logo=angular&logoColor=FFFFFF&labelColor=000000" alt="Angular" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=FFFFFF&labelColor=000000" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=4ADE80&labelColor=000000" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SCSS-000000?style=flat-square&logo=sass&logoColor=FFFFFF&labelColor=000000" alt="SCSS" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-000000?style=flat-square&logo=tailwindcss&logoColor=4ADE80&labelColor=000000" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Angular%20Material-000000?style=flat-square&logo=angular&logoColor=FFFFFF&labelColor=000000" alt="Angular Material" />
+  <img src="https://img.shields.io/badge/Thymeleaf-000000?style=flat-square&logo=thymeleaf&logoColor=A3A3A3&labelColor=000000" alt="Thymeleaf" />
 </p>
 
 **Data & messaging**
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-0A101F?style=flat-square&logo=postgresql&logoColor=22D3EE&labelColor=0A101F" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-0A101F?style=flat-square&logo=mongodb&logoColor=10B981&labelColor=0A101F" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-0A101F?style=flat-square&logo=redis&logoColor=A78BFA&labelColor=0A101F" alt="Redis" />
-  <img src="https://img.shields.io/badge/Kafka-0A101F?style=flat-square&logo=apachekafka&logoColor=22D3EE&labelColor=0A101F" alt="Kafka" />
-  <img src="https://img.shields.io/badge/RabbitMQ-0A101F?style=flat-square&logo=rabbitmq&logoColor=10B981&labelColor=0A101F" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4ADE80&labelColor=000000" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=A3A3A3&labelColor=000000" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=FFFFFF&labelColor=000000" alt="Redis" />
+  <img src="https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=apachekafka&logoColor=4ADE80&labelColor=000000" alt="Kafka" />
+  <img src="https://img.shields.io/badge/RabbitMQ-000000?style=flat-square&logo=rabbitmq&logoColor=A3A3A3&labelColor=000000" alt="RabbitMQ" />
 </p>
 
 **Cloud & DevOps**
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-0A101F?style=flat-square&logo=amazonwebservices&logoColor=A78BFA&labelColor=0A101F" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0A101F?style=flat-square&logo=microsoftazure&logoColor=22D3EE&labelColor=0A101F" alt="Azure" />
-  <img src="https://img.shields.io/badge/Docker-0A101F?style=flat-square&logo=docker&logoColor=22D3EE&labelColor=0A101F" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-0A101F?style=flat-square&logo=git&logoColor=10B981&labelColor=0A101F" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-0A101F?style=flat-square&logo=githubactions&logoColor=A78BFA&labelColor=0A101F" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/SonarQube-0A101F?style=flat-square&logo=sonarqube&logoColor=22D3EE&labelColor=0A101F" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonwebservices&logoColor=FFFFFF&labelColor=000000" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-000000?style=flat-square&logo=microsoftazure&logoColor=4ADE80&labelColor=000000" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=4ADE80&labelColor=000000" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=A3A3A3&labelColor=000000" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-000000?style=flat-square&logo=githubactions&logoColor=FFFFFF&labelColor=000000" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/SonarQube-000000?style=flat-square&logo=sonarqube&logoColor=4ADE80&labelColor=000000" alt="SonarQube" />
 </p>
 
 **Testing & build**
 
 <p>
-  <img src="https://img.shields.io/badge/JUnit-0A101F?style=flat-square&logo=junit5&logoColor=10B981&labelColor=0A101F" alt="JUnit" />
-  <img src="https://img.shields.io/badge/Jest-0A101F?style=flat-square&logo=jest&logoColor=A78BFA&labelColor=0A101F" alt="Jest" />
-  <img src="https://img.shields.io/badge/Playwright-0A101F?style=flat-square&logo=playwright&logoColor=22D3EE&labelColor=0A101F" alt="Playwright" />
-  <img src="https://img.shields.io/badge/Maven-0A101F?style=flat-square&logo=apachemaven&logoColor=10B981&labelColor=0A101F" alt="Maven" />
-  <img src="https://img.shields.io/badge/Gradle-0A101F?style=flat-square&logo=gradle&logoColor=22D3EE&labelColor=0A101F" alt="Gradle" />
-  <img src="https://img.shields.io/badge/npm-0A101F?style=flat-square&logo=npm&logoColor=A78BFA&labelColor=0A101F" alt="npm" />
-  <img src="https://img.shields.io/badge/Postman-0A101F?style=flat-square&logo=postman&logoColor=10B981&labelColor=0A101F" alt="Postman" />
+  <img src="https://img.shields.io/badge/JUnit-000000?style=flat-square&logo=junit5&logoColor=A3A3A3&labelColor=000000" alt="JUnit" />
+  <img src="https://img.shields.io/badge/Jest-000000?style=flat-square&logo=jest&logoColor=FFFFFF&labelColor=000000" alt="Jest" />
+  <img src="https://img.shields.io/badge/Playwright-000000?style=flat-square&logo=playwright&logoColor=4ADE80&labelColor=000000" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Maven-000000?style=flat-square&logo=apachemaven&logoColor=A3A3A3&labelColor=000000" alt="Maven" />
+  <img src="https://img.shields.io/badge/Gradle-000000?style=flat-square&logo=gradle&logoColor=4ADE80&labelColor=000000" alt="Gradle" />
+  <img src="https://img.shields.io/badge/npm-000000?style=flat-square&logo=npm&logoColor=FFFFFF&labelColor=000000" alt="npm" />
+  <img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=A3A3A3&labelColor=000000" alt="Postman" />
 </p>
 
 **Security**
 
 <p>
-  <img src="https://img.shields.io/badge/JWT-0A101F?style=flat-square&logo=jsonwebtokens&logoColor=A78BFA&labelColor=0A101F" alt="JWT" />
-  <img src="https://img.shields.io/badge/OAuth2%2FOIDC-0A101F?style=flat-square&logo=oauth&logoColor=10B981&labelColor=0A101F" alt="OAuth2 and OIDC" />
-  <img src="https://img.shields.io/badge/BCrypt%2FArgon2-0A101F?style=flat-square&logo=letsencrypt&logoColor=22D3EE&labelColor=0A101F" alt="BCrypt and Argon2" />
-  <img src="https://img.shields.io/badge/OWASP%20Top%2010-0A101F?style=flat-square&logo=owasp&logoColor=10B981&labelColor=0A101F" alt="OWASP Top 10" />
-  <img src="https://img.shields.io/badge/TLS-0A101F?style=flat-square&logo=openssl&logoColor=A78BFA&labelColor=0A101F" alt="TLS" />
-  <img src="https://img.shields.io/badge/Secrets%20Management-0A101F?style=flat-square&logo=vault&logoColor=22D3EE&labelColor=0A101F" alt="Secrets management" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF&labelColor=000000" alt="JWT" />
+  <img src="https://img.shields.io/badge/OAuth2%2FOIDC-000000?style=flat-square&logo=oauth&logoColor=A3A3A3&labelColor=000000" alt="OAuth2 and OIDC" />
+  <img src="https://img.shields.io/badge/BCrypt%2FArgon2-000000?style=flat-square&logo=letsencrypt&logoColor=4ADE80&labelColor=000000" alt="BCrypt and Argon2" />
+  <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=A3A3A3&labelColor=000000" alt="OWASP Top 10" />
+  <img src="https://img.shields.io/badge/TLS-000000?style=flat-square&logo=openssl&logoColor=FFFFFF&labelColor=000000" alt="TLS" />
+  <img src="https://img.shields.io/badge/Secrets%20Management-000000?style=flat-square&logo=vault&logoColor=4ADE80&labelColor=000000" alt="Secrets management" />
 </p>
 
 **Foundations**
 
 <p>
-  <img src="https://img.shields.io/badge/C-0A101F?style=flat-square&logo=c&logoColor=A78BFA&labelColor=0A101F" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-0A101F?style=flat-square&logo=cplusplus&logoColor=22D3EE&labelColor=0A101F" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-0A101F?style=flat-square&logo=python&logoColor=10B981&labelColor=0A101F" alt="Python" />
-  <img src="https://img.shields.io/badge/Linux-0A101F?style=flat-square&logo=linux&logoColor=A78BFA&labelColor=0A101F" alt="Linux" />
+  <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=FFFFFF&labelColor=000000" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=cplusplus&logoColor=4ADE80&labelColor=000000" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=A3A3A3&labelColor=000000" alt="Python" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=FFFFFF&labelColor=000000" alt="Linux" />
 </p>
 
 <!-- ===== PROJECTS ===== -->
@@ -197,19 +197,19 @@ Target: banks, Big Tech, and system integration companies. I am especially inter
 <div align="center">
 
 <a href="https://www.linkedin.com/in/matheus-costa-de-jesus/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0A101F" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=4ADE80&labelColor=000000" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="https://github.com/mathofjesus">
-  <img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0A101F" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000" alt="GitHub" />
 </a>
 &nbsp;
 <a href="https://x.com/mathofjesus">
-  <img src="https://img.shields.io/badge/X-0A101F?style=for-the-badge&logo=x&logoColor=F8FAFC&labelColor=0A101F" alt="X" />
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=000000" alt="X" />
 </a>
 &nbsp;
 <a href="mailto:matheuscojesus@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=A3A3A3&labelColor=000000" alt="Email" />
 </a>
 
 </div>
