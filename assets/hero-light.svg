@@ -62,8 +62,8 @@
 <text x="364" y="390" text-anchor="middle" font-size="9" letter-spacing="1" fill="#000000">CS50X</text>
 
 <text x="68" y="432" font-size="9" letter-spacing="2" fill="#525252">CURRENT FOCUS</text>
-<text x="68" y="458" font-size="14" font-weight="bold" fill="#000000">Building GFP</text>
-<text x="68" y="478" font-size="10" fill="#525252">full-stack finance platform</text>
+<text x="68" y="458" font-size="14" font-weight="bold" fill="#000000">Building backend systems</text>
+<text x="68" y="478" font-size="10" fill="#525252">data platforms &amp; dev tooling</text>
 <rect x="68" y="496" width="220" height="28" rx="14" fill="rgba(21,128,61,0.08)" stroke="#15803D" stroke-opacity="0.35"/>
 <text x="178" y="514" text-anchor="middle" font-size="9" letter-spacing="1.2" fill="#15803D">FULL-STACK · CLOUD · FDE</text>
 <text x="68" y="544" font-size="10" fill="#15803D">matheus@dev ~ %</text>
@@ -84,12 +84,12 @@
 <text x="528" y="220" font-size="13" fill="#525252"><tspan fill="#15803D">$</tspan> cat focus.txt</text>
 <text x="528" y="246" font-size="14" fill="#000000">Full-Stack Engineering · Cloud · FDE</text>
 <text x="528" y="280" font-size="13" fill="#525252"><tspan fill="#15803D">$</tspan> ls ~/stack</text>
-<text x="528" y="306" font-size="14" fill="#000000">Java · Spring Boot · JavaScript/TypeScript</text>
+<text x="528" y="306" font-size="14" fill="#000000">Java · Spring Boot · Python · FastAPI</text>
 <text x="528" y="330" font-size="14" fill="#525252">React · Angular · SQL · PostgreSQL</text>
 <text x="528" y="364" font-size="13" fill="#525252"><tspan fill="#15803D">$</tspan> location</text>
 <text x="528" y="390" font-size="14" fill="#000000">Lauro de Freitas, BA — Brazil</text>
 <text x="528" y="424" font-size="13" fill="#525252"><tspan fill="#15803D">$</tspan> status</text>
-<text x="528" y="450" font-size="14" fill="#15803D">CS 6th semester · CS50x · building GFP</text>
+<text x="528" y="450" font-size="14" fill="#15803D">CS 6th semester · CS50x · shipping OSS</text>
 <line x1="528" y1="472" x2="1108" y2="472" stroke="#15803D" opacity="0.15"/>
 <text x="528" y="500" font-size="13" fill="#525252"><tspan fill="#15803D">$</tspan> echo $STATUS</text>
 <text x="528" y="526" font-size="14" fill="#000000">open to full-stack, cloud &amp; FDE roles</text>
