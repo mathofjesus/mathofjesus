@@ -2,23 +2,23 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mathofjesus/mathofjesus/main/assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mathofjesus/mathofjesus/main/assets/hero-light.svg">
-  <img alt="Matheus Costa de Jesus — Full-Stack Software Engineer" src="https://raw.githubusercontent.com/mathofjesus/mathofjesus/main/assets/hero-light.svg" width="100%">
+  <img alt="Matheus Costa de Jesus — Data, Backend & Python Engineer" src="https://raw.githubusercontent.com/mathofjesus/mathofjesus/main/assets/hero-light.svg" width="100%">
 </picture>
 
 <!-- ===== IDENTITY BADGES ===== -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java%20%26%20Spring-000000?style=for-the-badge&logo=spring&logoColor=4ADE80&labelColor=000000" alt="Java and Spring" />
-&nbsp;
 <img src="https://img.shields.io/badge/Python%20%26%20FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=4ADE80&labelColor=000000" alt="Python and FastAPI" />
 &nbsp;
-<img src="https://img.shields.io/badge/JavaScript%2FTypeScript-000000?style=for-the-badge&logo=typescript&logoColor=4ADE80&labelColor=000000" alt="JavaScript and TypeScript" />
+<img src="https://img.shields.io/badge/SQL%20%26%20PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&labelColor=000000" alt="SQL and PostgreSQL" />
 &nbsp;
-<img src="https://img.shields.io/badge/SQL%20%26%20NoSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&labelColor=000000" alt="SQL and NoSQL" />
+<img src="https://img.shields.io/badge/Java%20%26%20Spring-000000?style=for-the-badge&logo=spring&logoColor=4ADE80&labelColor=000000" alt="Java and Spring" />
 &nbsp;
-<img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-000000?style=for-the-badge&logo=amazonwebservices&logoColor=4ADE80&labelColor=000000" alt="Cloud and DevOps" />
+<img src="https://img.shields.io/badge/Data%20%26%20Analytics-000000?style=for-the-badge&logo=databricks&logoColor=4ADE80&labelColor=000000" alt="Data and analytics" />
 &nbsp;
-<img src="https://img.shields.io/badge/FDE-000000?style=for-the-badge&logo=handshake&logoColor=FFFFFF&labelColor=000000" alt="Forward Deployed Engineer" />
+<img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-000000?style=for-the-badge&logo=docker&logoColor=FFFFFF&labelColor=000000" alt="Cloud and DevOps" />
+&nbsp;
+<img src="https://img.shields.io/badge/Backend%20%26%20APIs-000000?style=for-the-badge&logo=swagger&logoColor=4ADE80&labelColor=000000" alt="Backend and APIs" />
 
 <br/><br/>
 
@@ -65,7 +65,7 @@
 <!-- ===== ABOUT ===== -->
 ## `$ whoami`
 
-Computer Science student (6th semester) with 9 years of operational experience in industrial environments. I build backend and full-stack systems with **Python, Java, and SQL** — public-data dashboards, web services, and developer tooling. My current work centers on FastAPI + Angular data platforms, Flask services on PostgreSQL, and disposable Docker environments for testing. I also bring a C/C++ and AppSec background.
+Computer Science student (6th semester) with **8+ years** of experience in industrial environments, monitoring real-time KPIs and investigating process anomalies down to root cause. I build data and backend solutions with **Python, SQL, and PostgreSQL** — public-data ingestion, offline-first dashboards, and web services with automated tests and Docker. I am looking for opportunities in **data science, data platforms, and applied analytics** at banks, fintechs, and product companies.
 
 <!-- ===== TECH STACK ===== -->
 ## `$ cat stack.txt`
@@ -73,23 +73,25 @@ Computer Science student (6th semester) with 9 years of operational experience i
 **Core languages**
 
 <p>
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=4ADE80&labelColor=000000" alt="Java" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=4ADE80&labelColor=000000" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&labelColor=000000" alt="SQL" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=4ADE80&labelColor=000000" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF&labelColor=000000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFFFFF&labelColor=000000" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&labelColor=000000" alt="SQL" />
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FFFFFF&labelColor=000000" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=4ADE80&labelColor=000000" alt="C++" />
+  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=4ADE80&labelColor=000000" alt="Bash" />
 </p>
 
-**Backend**
+**Backend & APIs**
 
 <p>
   <img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=4ADE80&labelColor=000000" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=FFFFFF&labelColor=000000" alt="Flask" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-000000?style=flat-square&logo=springboot&logoColor=4ADE80&labelColor=000000" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring%20Security-000000?style=flat-square&logo=springsecurity&logoColor=4ADE80&labelColor=000000" alt="Spring Security" />
-  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-000000?style=flat-square&logo=spring&logoColor=4ADE80&labelColor=000000" alt="Spring Data JPA" />
   <img src="https://img.shields.io/badge/REST%20APIs-000000?style=flat-square&logo=swagger&logoColor=4ADE80&labelColor=000000" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Swagger%2FOpenAPI-000000?style=flat-square&logo=swagger&logoColor=4ADE80&labelColor=000000" alt="Swagger and OpenAPI" />
+  <img src="https://img.shields.io/badge/OpenAPI%2FSwagger-000000?style=flat-square&logo=swagger&logoColor=4ADE80&labelColor=000000" alt="OpenAPI and Swagger" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-000000?style=flat-square&logo=springboot&logoColor=4ADE80&labelColor=000000" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF&labelColor=000000" alt="JWT" />
 </p>
 
 **Frontend**
@@ -103,30 +105,29 @@ Computer Science student (6th semester) with 9 years of operational experience i
   <img src="https://img.shields.io/badge/SCSS-000000?style=flat-square&logo=sass&logoColor=FFFFFF&labelColor=000000" alt="SCSS" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-000000?style=flat-square&logo=tailwindcss&logoColor=4ADE80&labelColor=000000" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Angular%20Material-000000?style=flat-square&logo=angular&logoColor=FFFFFF&labelColor=000000" alt="Angular Material" />
-  <img src="https://img.shields.io/badge/Thymeleaf-000000?style=flat-square&logo=thymeleaf&logoColor=A3A3A3&labelColor=000000" alt="Thymeleaf" />
 </p>
 
-**Data & messaging**
+**Data & analysis**
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4ADE80&labelColor=000000" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=4ADE80&labelColor=000000" alt="Supabase" />
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=A3A3A3&labelColor=000000" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=FFFFFF&labelColor=000000" alt="Redis" />
-  <img src="https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=apachekafka&logoColor=4ADE80&labelColor=000000" alt="Kafka" />
-  <img src="https://img.shields.io/badge/RabbitMQ-000000?style=flat-square&logo=rabbitmq&logoColor=A3A3A3&labelColor=000000" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/IBGE%20%26%20CNES-000000?style=flat-square&logo=databricks&logoColor=4ADE80&labelColor=000000" alt="IBGE and CNES public data" />
+  <img src="https://img.shields.io/badge/pg__cron-000000?style=flat-square&logo=postgresql&logoColor=FFFFFF&labelColor=000000" alt="pg_cron" />
+  <img src="https://img.shields.io/badge/KPI%20Analysis-000000?style=flat-square&logo=grafana&logoColor=4ADE80&labelColor=000000" alt="KPI analysis" />
+  <img src="https://img.shields.io/badge/Anomaly%20Detection-000000?style=flat-square&logo=datadog&logoColor=FFFFFF&labelColor=000000" alt="Anomaly detection" />
 </p>
 
 **Cloud & DevOps**
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonwebservices&logoColor=FFFFFF&labelColor=000000" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-000000?style=flat-square&logo=microsoftazure&logoColor=4ADE80&labelColor=000000" alt="Azure" />
   <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=4ADE80&labelColor=000000" alt="Docker" />
+  <img src="https://img.shields.io/badge/Docker%20Compose-000000?style=flat-square&logo=docker&logoColor=FFFFFF&labelColor=000000" alt="Docker Compose" />
   <img src="https://img.shields.io/badge/Nginx-000000?style=flat-square&logo=nginx&logoColor=4ADE80&labelColor=000000" alt="Nginx" />
+  <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonwebservices&logoColor=FFFFFF&labelColor=000000" alt="AWS" />
   <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=A3A3A3&labelColor=000000" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-000000?style=flat-square&logo=githubactions&logoColor=FFFFFF&labelColor=000000" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/SonarQube-000000?style=flat-square&logo=sonarqube&logoColor=4ADE80&labelColor=000000" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=FFFFFF&labelColor=000000" alt="Linux" />
 </p>
 
 **Testing & build**
@@ -135,7 +136,7 @@ Computer Science student (6th semester) with 9 years of operational experience i
   <img src="https://img.shields.io/badge/pytest-000000?style=flat-square&logo=pytest&logoColor=4ADE80&labelColor=000000" alt="pytest" />
   <img src="https://img.shields.io/badge/Vitest-000000?style=flat-square&logo=vitest&logoColor=4ADE80&labelColor=000000" alt="Vitest" />
   <img src="https://img.shields.io/badge/Jest-000000?style=flat-square&logo=jest&logoColor=FFFFFF&labelColor=000000" alt="Jest" />
-  <img src="https://img.shields.io/badge/JUnit-000000?style=flat-square&logo=junit5&logoColor=A3A3A3&labelColor=000000" alt="JUnit" />
+  <img src="https://img.shields.io/badge/JUnit%205-000000?style=flat-square&logo=junit5&logoColor=A3A3A3&labelColor=000000" alt="JUnit 5" />
   <img src="https://img.shields.io/badge/Playwright-000000?style=flat-square&logo=playwright&logoColor=4ADE80&labelColor=000000" alt="Playwright" />
   <img src="https://img.shields.io/badge/Maven-000000?style=flat-square&logo=apachemaven&logoColor=A3A3A3&labelColor=000000" alt="Maven" />
   <img src="https://img.shields.io/badge/Gradle-000000?style=flat-square&logo=gradle&logoColor=4ADE80&labelColor=000000" alt="Gradle" />
@@ -146,21 +147,10 @@ Computer Science student (6th semester) with 9 years of operational experience i
 **Security**
 
 <p>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF&labelColor=000000" alt="JWT" />
   <img src="https://img.shields.io/badge/HMAC--SHA256-000000?style=flat-square&logo=letsencrypt&logoColor=4ADE80&labelColor=000000" alt="HMAC-SHA256" />
-  <img src="https://img.shields.io/badge/OAuth2%2FOIDC-000000?style=flat-square&logo=oauth&logoColor=A3A3A3&labelColor=000000" alt="OAuth2 and OIDC" />
   <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=A3A3A3&labelColor=000000" alt="OWASP Top 10" />
   <img src="https://img.shields.io/badge/TLS-000000?style=flat-square&logo=openssl&logoColor=FFFFFF&labelColor=000000" alt="TLS" />
   <img src="https://img.shields.io/badge/Container%20Hardening-000000?style=flat-square&logo=docker&logoColor=4ADE80&labelColor=000000" alt="Container hardening" />
-</p>
-
-**Foundations**
-
-<p>
-  <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=FFFFFF&labelColor=000000" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=cplusplus&logoColor=4ADE80&labelColor=000000" alt="C++" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=FFFFFF&labelColor=000000" alt="Linux" />
-  <img src="https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=4ADE80&labelColor=000000" alt="Bash" />
 </p>
 
 <!-- ===== PROJECTS ===== -->
@@ -176,7 +166,7 @@ Computer Science student (6th semester) with 9 years of operational experience i
 
 | Repository | Stack | What it does |
 |------------|-------|--------------|
-| [Dashboard](https://github.com/mathofjesus/Dashboard) | Python · FastAPI · Angular 22 · pytest/Vitest | Offline-first dashboard for Brazilian population, healthcare facilities and municipal geographies. Ingests IBGE and CNES data while preserving the original CLI, JSON API and processed-file contracts. Docker + Nginx deployment. |
+| [Dashboard](https://github.com/mathofjesus/Dashboard) | Python · FastAPI · Angular · pytest/Vitest | Offline-first dashboard for Brazilian population, healthcare facilities and municipal geographies. Ingests IBGE and CNES data while preserving the original CLI, JSON API and processed-file contracts. Docker + Nginx deployment. |
 | [Encurtador](https://github.com/mathofjesus/Encurtador) | Python · Flask · PostgreSQL/Supabase · Docker | URL shortener with non-sequential 7-character codes from a keyed Feistel permutation (HMAC-SHA256) encoded in Base62. O(1) resolution by primary key, 30-day TTL, and cleanup through pg_cron or GitHub Actions. |
 | [Comparador de Investimentos](https://github.com/mathofjesus/ComparadorDeInvestimentosRendaFixa) | Java · CLI | Compares CDB, LCI/LCA and Tesouro Selic net returns from amount, term and CDI percentage, applying Brazil's regressive income-tax table. A personal decision aid, not investment advice. |
 | [docker-sandbox](https://github.com/mathofjesus/docker-sandbox) | Docker · Alpine · Bash/Node.js | Agent skill that runs TypeScript and Java/Spring test suites in hardened, disposable containers (cap-drop, read-only rootfs, non-root user). Installer auto-detects Claude Code, Cursor, Codex and Hermes. |
@@ -203,17 +193,17 @@ Computer Science student (6th semester) with 9 years of operational experience i
 <!-- ===== EDUCATION ===== -->
 ## `$ cat education.txt`
 
-- **B.Sc. in Computer Science** — 6th semester (in progress)
-- **CS50x** — Harvard University (in progress)
-- **Voxy Proficiency Certificate** — English B1
-- **9 years** as a Machine Operator at M. Dias Branco — industrial operations, KPIs, safety compliance, and cross-functional teams
+- **B.Sc. in Computer Science** — Descomplica (expected graduation: December 2027), 6th semester
+- **Certifications** — Object-Oriented Developer · DB Developer · Programming Basics · Computer Architecture and Organization (Descomplica)
+- **Languages** — Portuguese native · English intermediate (B1)
+- **8+ years** as a Machine Operator at M. Dias Branco — real-time KPI monitoring, process anomaly investigation, technical documentation, operator training, and safety compliance
 
 <!-- ===== CAREER ===== -->
 ## `$ cat goals.txt`
 
-**Backend / Full-Stack Engineer · Platform & Cloud Engineer · Forward Deployed Engineer**
+**Data Science · Data Platforms · Applied Analytics · Backend Engineering**
 
-Target: banks, product companies, and system integration teams. I am especially interested in the Python and Java ecosystems, data platforms, containers, and production troubleshooting.
+Target: banks, fintechs, product companies, and data teams. I am especially interested in Python, SQL, public-data ingestion, pipelines, dashboards, automated tests, and production troubleshooting.
 
 <!-- ===== PORTUGUESE ===== -->
 <a id="portugues"></a>
@@ -224,7 +214,7 @@ Target: banks, product companies, and system integration teams. I am especially 
 
 ### `$ whoami`
 
-Estudante do 6º semestre de Ciência da Computação, com 9 anos de experiência operacional em ambientes industriais. Construo sistemas backend e full-stack com **Python, Java e SQL** — dashboards de dados públicos, serviços web e ferramentas para desenvolvedores. Meu trabalho atual envolve plataformas de dados com FastAPI + Angular, serviços Flask sobre PostgreSQL e ambientes Docker descartáveis para testes. Também trago base em C/C++ e AppSec.
+Estudante do 6º semestre de Ciência da Computação, com **mais de 8 anos** de experiência em ambientes industriais, monitorando KPIs em tempo real e investigando anomalias de processo. Construo soluções de dados e backend com **Python, SQL e PostgreSQL** — ingestão de dados públicos, dashboards offline-first e serviços web com testes automatizados e Docker. Busco oportunidades em **ciência de dados, plataformas de dados e análise aplicada** em bancos, fintechs e empresas de produto.
 
 ### `$ ./projects --featured`
 
@@ -232,30 +222,30 @@ Estudante do 6º semestre de Ciência da Computação, com 9 anos de experiênci
 
 | Repositório | Stack | O que faz |
 |-------------|-------|-----------|
-| [Dashboard](https://github.com/mathofjesus/Dashboard) | Python · FastAPI · Angular 22 · pytest/Vitest | Dashboard offline-first de população, estabelecimentos de saúde e malhas por município brasileiro. Ingere dados do IBGE e do CNES preservando o contrato original de CLI, API JSON e arquivos processados. Deploy com Docker + Nginx. |
+| [Dashboard](https://github.com/mathofjesus/Dashboard) | Python · FastAPI · Angular · pytest/Vitest | Dashboard offline-first de população, estabelecimentos de saúde e malhas por município brasileiro. Ingere dados do IBGE e do CNES preservando o contrato original de CLI, API JSON e arquivos processados. Deploy com Docker + Nginx. |
 | [Encurtador](https://github.com/mathofjesus/Encurtador) | Python · Flask · PostgreSQL/Supabase · Docker | Encurtador de URLs com códigos não sequenciais de 7 caracteres, gerados por permutação de Feistel com chave (HMAC-SHA256) e codificação Base62. Resolução O(1) pela chave primária, TTL de 30 dias e expurgo via pg_cron ou GitHub Actions. |
 | [Comparador de Investimentos](https://github.com/mathofjesus/ComparadorDeInvestimentosRendaFixa) | Java · CLI | Compara o rendimento líquido de CDB, LCI/LCA e Tesouro Selic a partir de valor, prazo e percentual do CDI, aplicando a tabela regressiva de IR. Ferramenta pessoal de apoio à decisão, não é recomendação de investimento. |
 | [docker-sandbox](https://github.com/mathofjesus/docker-sandbox) | Docker · Alpine · Bash/Node.js | Agent skill que executa suítes TypeScript e backends Java/Spring em contêineres descartáveis e endurecidos (cap-drop, rootfs somente leitura, usuário não-root). O instalador detecta Claude Code, Cursor, Codex e Hermes. |
 
 ### `$ cat formacao.txt`
 
-- **Bacharelado em Ciência da Computação** — 6º semestre (em andamento)
-- **CS50x** — Harvard University (em andamento)
-- **Certificado de Proficiência Voxy** — Inglês B1
-- **9 anos** como Operador de Máquinas na M. Dias Branco — operações industriais, KPIs, conformidade de segurança e times multidisciplinares
+- **Bacharelado em Ciência da Computação** — Descomplica (conclusão prevista: dezembro de 2027), 6º semestre
+- **Certificações** — Object-Oriented Developer · DB Developer · Programming Basics · Arquitetura e Organização de Computadores (Descomplica)
+- **Idiomas** — Português nativo · Inglês intermediário (B1)
+- **Mais de 8 anos** como Operador de Máquinas na M. Dias Branco — monitoramento de KPIs em tempo real, investigação de anomalias de processo, documentação técnica, treinamento de operadores e conformidade de segurança
 
 ### `$ cat objetivos.txt`
 
-**Engenheiro Backend / Full-Stack · Plataforma & Cloud · Forward Deployed Engineer**
+**Ciência de Dados · Plataformas de Dados · Análise Aplicada · Engenharia Backend**
 
-Objetivo: bancos, empresas de produto e times de integração de sistemas. Tenho interesse especial nos ecossistemas Python e Java, plataformas de dados, contêineres e troubleshooting de produção.
+Objetivo: bancos, fintechs, empresas de produto e times de dados. Tenho interesse especial em Python, SQL, ingestão de dados públicos, pipelines, dashboards, testes automatizados e troubleshooting de produção.
 
 <!-- ===== CONTACT ===== -->
 ## `$ contact --social`
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/matheus-costa-de-jesus/">
+<a href="https://www.linkedin.com/in/matheus-costa-de-jesus-/">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=4ADE80&labelColor=000000" alt="LinkedIn" />
 </a>
 &nbsp;
